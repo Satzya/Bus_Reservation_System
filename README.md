@@ -2,5 +2,5 @@
 A bus reservation application.
 # Features
   Search by cities,
-  View Ticket Status
-  Cancel Tickets
+  View Ticket Status,
+  Cancel Tickets.
